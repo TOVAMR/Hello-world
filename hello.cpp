@@ -1,7 +1,10 @@
-#include "iostream"
+#include <iostream>  
+
 #include "hello.h"
-//using namespace std;
+        
+using namespace std;          
+
 void print_hello()
 {
-std::cout<<"hello world from my git!"<<std::endl;
+cout<<"hello world from my git!"<<endl;
 }
