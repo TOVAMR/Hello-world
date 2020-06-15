@@ -3,5 +3,5 @@
 using namespace std;
 void print_hello()
 {
-cout<<"hello world from my git!<<endl;
+cout<<"hello world from my git!"<<endl;
 }
